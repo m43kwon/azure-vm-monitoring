@@ -1,0 +1,40 @@
+{
+  "parameters": {
+    "clientId": {
+      "value": "CLIENT_ID_FROM_SERVICE_PRINCIPAL"
+    },
+    "secretKey": {
+      "value": "SECRET_KEY_FROM_SERVICE_PRINCIPAL"
+    },
+    "tenantId": {
+      "value": "TENANT_ID_FROM_SERVICE_PRINCIPAL"
+    },
+    "storageAccount": {
+      "value": "NAME_OF_STORAGE_ACCOUNT_FOR_LOGS"
+    },
+    "storageAccountKey": {
+      "value": "STORAGE_ACCOUNT_ACCESS_KEY"
+    },
+    "storageAccountFileshare": {
+      "value": "STORAGE_ACCOUNT_FILESERVICE_ENTRY"
+    },
+    "storageAccountDirectory": {
+      "value": "OPTIONAL_DIRECTORY_NAME_UNDER_FILESHARE"
+    },
+    "targetIps": {
+      "value": "COMMA_SEPARATED_LIST_OF_IP_ADDRESSES"
+    },
+    "targetApiKeys": {
+      "value": "COMMA_SEPARATED_LIST_OF_API_KEYS"
+    },
+    "targetVsys" : {
+      "value": "VSYS_ID_ON_TARGET_FIREWALLS"
+    },
+    "resourceGroups": {
+      "value": "COMMA_SEPARATED_LIST_OF_RESOURCE_GROUPS"
+    },
+    "verboseLoggingEnable": {
+      "value": "False"
+    }
+  }
+}
