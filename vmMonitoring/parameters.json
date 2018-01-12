@@ -9,6 +9,9 @@
     "tenantId": {
       "value": "TENANT_ID_FROM_SERVICE_PRINCIPAL"
     },
+    "subscriptionId": {
+      "value": "AZURE_SUBSCRIPTION_ID"
+    },
     "storageAccount": {
       "value": "NAME_OF_STORAGE_ACCOUNT_FOR_LOGS"
     },
