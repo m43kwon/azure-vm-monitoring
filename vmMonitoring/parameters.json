@@ -3,7 +3,7 @@
     "clientId": {
       "value": "CLIENT_ID_FROM_SERVICE_PRINCIPAL"
     },
-    "secretKey": {
+    "clientSecret": {
       "value": "SECRET_KEY_FROM_SERVICE_PRINCIPAL"
     },
     "tenantId": {
@@ -37,7 +37,7 @@
       "value": "COMMA_SEPARATED_LIST_OF_RESOURCE_GROUPS"
     },
     "verboseLoggingEnable": {
-      "value": "False"
+      "value": "True"
     }
   }
 }
